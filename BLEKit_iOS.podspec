@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BLEKit"
+  s.name         = "BLEKit-iOS"
   s.version      = "1.0.0"
   s.summary      = "'ARC and GCD Compatible Reachability Class for iOS and OS X."
 
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                           BLEKit
+                           With the latest technology, it is compatible with the B521 multi-purpose bracelet, which has a strong reliability 
                    DESC
 
   s.homepage     = "https://github.com/YXxiang/BLEKit"
