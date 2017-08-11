@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BLEKit-iOS"
+  s.name         = "BLEKit_iOS"
   s.version      = "1.0.0"
   s.summary      = "'ARC and GCD Compatible Reachability Class for iOS and OS X."
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                            With the latest technology, it is compatible with the B521 multi-purpose bracelet, which has a strong reliability 
                    DESC
 
-  s.homepage     = "https://github.com/YXxiang/BLEKit"
+  s.homepage     = "https://github.com/YXxiang/BLEKit_iOS"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/YXxiang/BLEKit.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/YXxiang/BLEKit_iOS.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "BLEKit/**/*.{h,m}"
+  s.source_files  = "BLEKit_iOS/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
